@@ -764,7 +764,7 @@
       "height": 115,
       "angle": 0,
       "strokeColor": "#1e1e1e",
-      "backgroundColor": "#ffec99",
+      "backgroundColor": "#b2f2bb",
       "fillStyle": "solid",
       "strokeWidth": 1,
       "strokeStyle": "solid",
@@ -777,8 +777,8 @@
         "type": 3
       },
       "seed": 1106559941,
-      "version": 186,
-      "versionNonce": 1544234031,
+      "version": 187,
+      "versionNonce": 873680603,
       "isDeleted": false,
       "boundElements": [
         {
@@ -786,7 +786,7 @@
           "id": "Bh2eJ285xnQUm5ss6r6lL"
         }
       ],
-      "updated": 1792165891268,
+      "updated": 1792428793588,
       "created": 1791827391917,
       "link": null,
       "locked": false
